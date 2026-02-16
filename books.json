@@ -1,3 +1,10 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "b1",
+      "title": "First Book Name",
+      "description": "My first uploaded book.",
+      "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
+    }
+  ]
 }
