@@ -40,6 +40,28 @@ async function init() {
   const res = await fetch("books.json");
   const data = await res.json();
   ALL_BOOKS = data.items || [];
+// Create category dropdown
+const categorySelect = document.getElementById("category");
+
+if (categorySelect) {
+  const categories = [...new Set(ALL_BOOKS.map(b => b.category).filter(Boolean))];
+
+  categories.forEach(cat => {
+    const option = document.createElement("option");
+    option.value = cat;
+    option.textContent = cat;
+    categorySelect.appendChild(option);
+  });
+
+  categorySelect.addEventListener("change", () => {
+    const selected = categorySelect.value;
+    if (!selected) {
+      renderBooks(ALL_BOOKS);
+    } else {
+      renderBooks(ALL_BOOKS.filter(b => b.category === selected));
+    }
+  });
+}
 
   renderBooks(ALL_BOOKS);
 
@@ -53,3 +75,4 @@ async function init() {
 }
 
 init();
+
