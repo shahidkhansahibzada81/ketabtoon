@@ -69,7 +69,7 @@ function applyFilters() {
 }
 
 async function init() {
-  const res = await fetch("books.json");
+ const res = await fetch("books.json?v=" + Date.now());
   const data = await res.json();
   ALL_BOOKS = data.items || [];
 
@@ -81,3 +81,4 @@ async function init() {
 }
 
 init();
+
