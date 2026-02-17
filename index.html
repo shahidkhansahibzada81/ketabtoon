@@ -8,13 +8,20 @@
 
 <header>📚 Ketabtoon Free Library</header>
 
-<div style="padding:20px; max-width:1000px; margin:0 auto;">
+<div style="padding:20px; max-width:1000px; margin:0 auto; display:flex; gap:10px; flex-wrap:wrap;">
   <input
     id="search"
     type="text"
     placeholder="Search books..."
-    style="width:100%; padding:12px; border-radius:10px; border:1px solid #334155; outline:none; font-size:16px;"
+    style="flex:1; min-width:220px; padding:12px; border-radius:10px; border:1px solid #334155; outline:none; font-size:16px;"
   />
+
+  <select
+    id="category"
+    style="min-width:200px; padding:12px; border-radius:10px; border:1px solid #334155; outline:none; font-size:16px;"
+  >
+    <option value="">All categories</option>
+  </select>
 </div>
 
 <div class="container" id="books"></div>
