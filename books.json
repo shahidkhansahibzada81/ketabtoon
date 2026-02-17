@@ -4,53 +4,68 @@
       "id": "b1",
       "title": "How to Master CCNA",
       "author": "Rene Molenaar",
-      "category": "Networking",
+      "category": "Islamic",
       "language": "English",
       "description": "Complete CCNA guide.",
+      "cover": "https://YOUR_IMAGE_LINK.png",
       "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
     },
     {
       "id": "b2",
       "title": "Another Book",
       "author": "Unknown",
-      "category": "Islamic",
+      "category": "Networking",
       "language": "Pashto",
       "description": "Second sample book.",
+      "cover": "https://YOUR_IMAGE_LINK.png",
       "file_url": "PUT_SECOND_BOOK_LINK"
     },
+   {
+      "id": "b1",
+      "title": "How to Master CCNA",
+      "author": "Rene Molenaar",
+      "category": "Programming",
+      "language": "English",
+      "description": "Complete CCNA guide.",
+      "cover": "https://YOUR_IMAGE_LINK.png",
+      "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
+    },
     {
-  "id": "b3",
-  "title": "Third Books",
-  "category": "Novel",
-  "description": "Complete CCNA guide.",
-  "file_url": "YOUR_LINK"
-},
+      "id": "b1",
+      "title": "How to Master CCNA",
+      "author": "Rene Molenaar",
+      "category": "Philosophy",
+      "language": "English",
+      "description": "Complete CCNA guide.",
+      "cover": "https://YOUR_IMAGE_LINK.png",
+      "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
+    },
     {
-  "id": "b4",
-  "title": "Fourth Book",
-  "category": "Programming",
-  "description": "Complete CCNA guide.",
-  "file_url": "YOUR_LINK"
-},
+      "id": "b1",
+      "title": "How to Master CCNA",
+      "author": "Rene Molenaar",
+      "category": "Literature",
+      "language": "English",
+      "description": "Complete CCNA guide.",
+      "cover": "https://YOUR_IMAGE_LINK.png",
+      "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
+    },
     {
-  "id": "b5",
-  "title": "Fifth Book",
-  "category": "Philosophy",
-  "description": "Complete CCNA guide.",
-  "file_url": "YOUR_LINK"
-},
-    {
-  "id": "b6",
-  "title": "Serat Ul Nabi (SAW)",
-  "category": "Hadith",
-  "description": "Complete CCNA guide.",
-  "file_url": "YOUR_LINK"
-}
+      "id": "b1",
+      "title": "How to Master CCNA",
+      "author": "Rene Molenaar",
+      "category": "Web Development",
+      "language": "English",
+      "description": "Complete CCNA guide.",
+      "cover": "https://YOUR_IMAGE_LINK.png",
+      "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
+    },
 
 
 
 
   ]
 }
+
 
 
