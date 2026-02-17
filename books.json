@@ -2,11 +2,21 @@
   "items": [
     {
       "id": "b1",
-      "title": "First Book Name",
-      "description": "My first uploaded book.",
-      "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/V1/How.to.Master.CCNA.Rene.Molennar.pdf"
+      "title": "How to Master CCNA",
+      "author": "Rene Molenaar",
+      "category": "Networking",
+      "language": "English",
+      "description": "Complete CCNA guide.",
+      "file_url": "YOUR_RELEASE_LINK"
+    },
+    {
+      "id": "b2",
+      "title": "Another Book",
+      "author": "Unknown",
+      "category": "Islamic",
+      "language": "Pashto",
+      "description": "Second sample book.",
+      "file_url": "PUT_SECOND_BOOK_LINK"
     }
   ]
 }
-
-
