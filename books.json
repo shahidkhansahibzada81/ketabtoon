@@ -7,7 +7,7 @@
       "category": "Islamic",
       "language": "English",
       "description": "Complete CCNA guide.",
-      "cover": "https://YOUR_IMAGE_LINK.png",
+     
       "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
     },
     {
@@ -17,7 +17,7 @@
       "category": "Networking",
       "language": "Pashto",
       "description": "Second sample book.",
-      "cover": "https://YOUR_IMAGE_LINK.png",
+
       "file_url": "PUT_SECOND_BOOK_LINK"
     },
    {
@@ -27,7 +27,7 @@
       "category": "Programming",
       "language": "English",
       "description": "Complete CCNA guide.",
-      "cover": "https://YOUR_IMAGE_LINK.png",
+     
       "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
     },
     {
@@ -37,7 +37,7 @@
       "category": "Philosophy",
       "language": "English",
       "description": "Complete CCNA guide.",
-      "cover": "https://YOUR_IMAGE_LINK.png",
+     
       "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
     },
     {
@@ -47,7 +47,7 @@
       "category": "Literature",
       "language": "English",
       "description": "Complete CCNA guide.",
-      "cover": "https://YOUR_IMAGE_LINK.png",
+     
       "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
     },
     {
@@ -57,7 +57,7 @@
       "category": "Web Development",
       "language": "English",
       "description": "Complete CCNA guide.",
-      "cover": "https://YOUR_IMAGE_LINK.png",
+     
       "file_url": "https://github.com/shahidkhansahibzada81/ketabtoon/releases/download/v1/How.to.Master.CCNA.Rene.Molennar.pdf"
     },
 
@@ -66,6 +66,7 @@
 
   ]
 }
+
 
 
 
